@@ -1,0 +1,14 @@
+C:\Users\TheRe\RiderProjects\Assignment1OOP\Assignment1OOP\bin\Debug\net9.0\Assignment1OOP.exe
+C:\Users\TheRe\RiderProjects\Assignment1OOP\Assignment1OOP\bin\Debug\net9.0\Assignment1OOP.deps.json
+C:\Users\TheRe\RiderProjects\Assignment1OOP\Assignment1OOP\bin\Debug\net9.0\Assignment1OOP.runtimeconfig.json
+C:\Users\TheRe\RiderProjects\Assignment1OOP\Assignment1OOP\bin\Debug\net9.0\Assignment1OOP.dll
+C:\Users\TheRe\RiderProjects\Assignment1OOP\Assignment1OOP\bin\Debug\net9.0\Assignment1OOP.pdb
+C:\Users\TheRe\RiderProjects\Assignment1OOP\Assignment1OOP\obj\Debug\net9.0\Assignment1OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheRe\RiderProjects\Assignment1OOP\Assignment1OOP\obj\Debug\net9.0\Assignment1OOP.AssemblyInfoInputs.cache
+C:\Users\TheRe\RiderProjects\Assignment1OOP\Assignment1OOP\obj\Debug\net9.0\Assignment1OOP.AssemblyInfo.cs
+C:\Users\TheRe\RiderProjects\Assignment1OOP\Assignment1OOP\obj\Debug\net9.0\Assignment1OOP.csproj.CoreCompileInputs.cache
+C:\Users\TheRe\RiderProjects\Assignment1OOP\Assignment1OOP\obj\Debug\net9.0\Assignment1OOP.dll
+C:\Users\TheRe\RiderProjects\Assignment1OOP\Assignment1OOP\obj\Debug\net9.0\refint\Assignment1OOP.dll
+C:\Users\TheRe\RiderProjects\Assignment1OOP\Assignment1OOP\obj\Debug\net9.0\Assignment1OOP.pdb
+C:\Users\TheRe\RiderProjects\Assignment1OOP\Assignment1OOP\obj\Debug\net9.0\Assignment1OOP.genruntimeconfig.cache
+C:\Users\TheRe\RiderProjects\Assignment1OOP\Assignment1OOP\obj\Debug\net9.0\ref\Assignment1OOP.dll
